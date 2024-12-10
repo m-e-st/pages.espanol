@@ -7,7 +7,7 @@ Sonst nichts
 
 [Secondary](secondary.md)
 
-[hwn](web.hwn.de)
+[hwn](https://web.hwn.de)
 
 ---
 Ende
